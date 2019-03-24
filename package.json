@@ -45,6 +45,10 @@
     {
       "name": "jinxinxin",
       "email": "jinxinxin@qiniu.com"
+    },
+    {
+      "name": "strugglebak",
+      "email": "strugglebak@gmail.com"
     }
   ],
   "description": "Javascript SDK for Qiniu Resource (Cloud) Storage API",
@@ -75,7 +79,7 @@
   ],
   "license": "MIT",
   "main": "dist/qiniu.min.js",
-  "name": "qiniu-js",
+  "name": "my-qiniu-js",
   "private": false,
   "repository": {
     "type": "git",
@@ -86,5 +90,5 @@
     "start": "node demo/server.js",
     "watch": "webpack --watch"
   },
-  "version": "1.0.24"
+  "version": "0.0.1"
 }
